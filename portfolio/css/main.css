@@ -1,5 +1,21 @@
-h1{
-  font-family: 'Playfair', sans-serif;
+body{
+  font-family: 'Roboto', sans-serif;
+  font-size: 1.5em;
+  color: #000000;
+}
+
+h2 {
+  font-family: 'Playfair', serif;
+  font-size: 3em;
+  margin: 0.67em;
+}
+
+h2.aboutme{
+  color: #3B647F;
+}
+
+p.bio{
+    color: #FFFFFF;
 }
 
 .main {
@@ -9,11 +25,15 @@ h1{
 .row{
   padding: 2% 0%;
 }
-.background {
+.blue {
   background-color:#5388C9;
 }
 
 header.mainnavbar{
   padding: 1% 0%;
   display: block;
+}
+
+img{
+  max-width: 100%;
 }
