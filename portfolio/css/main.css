@@ -1,3 +1,19 @@
 h1{
   font-family: 'Playfair', sans-serif;
 }
+
+.main {
+  padding-top: 3%;
+}
+
+.row{
+  padding: 2% 0%;
+}
+.background {
+  background-color:#5388C9;
+}
+
+header.mainnavbar{
+  padding: 1% 0%;
+  display: block;
+}
