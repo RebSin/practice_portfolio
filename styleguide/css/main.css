@@ -1,10 +1,3 @@
 h1{
   font-family: 'Playfair', sans-serif;
 }
-.element nav a{
-  text-decoration: none;
-  color: grey;
-}
-.element nav a:hover{
-  color: black;
-}
