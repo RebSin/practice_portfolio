@@ -46,7 +46,6 @@ p.copyright{
 
 .navi a {
   font-family: 'Roboto', sans-serif;
-  font-size: 3em;
   color: #fff;
   text-decoration: none;
   font-size: 1.2em;
@@ -61,10 +60,13 @@ p.copyright{
 
 .currentNav {
   text-decoration: line-through !important;
-    text-decoration-color: #fff !important;
+  text-decoration-color: #fff !important;
   color:#3B647F !important;
 }
-
+.interactBold:hover {
+  background-color: #fff;
+  color:#3B647F;
+}
 
 img{
   max-width: 100%;
@@ -78,4 +80,22 @@ img:hover{
 }
 img.avatar:hover{
   opacity: 1;
+}
+
+.backButton{
+  margin: 5% left;
+  text-align: left;
+}
+
+.backButton a {
+  font-family: 'Roboto', sans-serif;
+  color: #fff;
+  text-decoration: none;
+  font-size: 1em;
+  padding: 2px 10px 0 10px;
+  margin: 0;
+}
+
+.noteDesc {
+  font-size: .75em;
 }
