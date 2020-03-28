@@ -55,8 +55,16 @@ p.copyright{
 }
 .navi a:hover{
   background-color: #fff;
-  color:#3B647F;
+  text-decoration-color: #fff;
+    color:#3B647F;
 }
+
+.currentNav {
+  text-decoration: line-through !important;
+    text-decoration-color: #fff !important;
+  color:#3B647F !important;
+}
+
 
 img{
   max-width: 100%;
