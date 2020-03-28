@@ -33,7 +33,11 @@ header.mainnavbar{
   padding: 1% 0%;
   display: block;
 }
-
+p.copyright{
+  text-align: center;
+  color: #ccc;
+  font-size: 1em;
+}
 
 .navi{
   margin: 5% right;
