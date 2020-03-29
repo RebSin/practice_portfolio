@@ -71,10 +71,11 @@ p.copyright{
 img{
   max-width: 100%;
 }
-img.avatar {
+/* img.avatar {
   border-radius: 400px;
   border: 4px solid #fff;
-}
+} */
+
 img:hover{
   opacity:0.8;
 }
@@ -124,4 +125,21 @@ img.avatar:hover{
   text-decoration: none;
   background-color: #fff;
 
+}
+.intro {
+  font-family: 'Playfair', serif;
+  font-size: 11em;
+  color: #fff;
+}
+
+@media screen and (min-width: 390px) and (max-width: 600px) {
+  .intro{
+    font-size: 7em;
+  }
+}
+
+@media screen and (min-width: 100px) and (max-width: 389px) {
+  .intro{
+    font-size: 3em;
+  }
 }
