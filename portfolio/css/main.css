@@ -40,7 +40,7 @@ p.copyright{
 }
 
 .navi{
-  margin: 5% right;
+  margin: 5%;
   text-align: right;
 }
 
@@ -85,7 +85,7 @@ img.avatar:hover{
 }
 
 .backButton{
-  margin: 5% left;
+  margin: 5%;
   text-align: left;
 }
 
@@ -103,7 +103,7 @@ img.avatar:hover{
 }
 
 .backnavi{
-  margin: 5% right;
+  margin: 5%;
   text-align: right;
 }
 
