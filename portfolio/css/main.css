@@ -137,10 +137,16 @@ img.avatar:hover{
   .intro{
     font-size: 7em;
   }
+  .container {
+    margin: 35px auto;
+  }
 }
 
 @media screen and (min-width: 100px) and (max-width: 389px) {
   .intro{
     font-size: 3em;
+  }
+  .container {
+    margin: 35px auto;
   }
 }
